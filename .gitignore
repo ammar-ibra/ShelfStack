@@ -1,0 +1,22 @@
+# 1. المجلدات الخاصة بالمكتبات
+node_modules/
+#2
+dist/
+build/
+out/
+
+# 3. ملفات البيئة السرية
+.env
+
+# 4. (Logs)
+npm-debug.log*
+yarn-error.log*
+*.log
+
+# 5. ملفات أنظمة التشغيل
+.DS_Store
+Thumbs.db
+
+# 6. ملفات محررات الأكواد
+.vscode/
+.idea/
