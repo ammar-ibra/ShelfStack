@@ -5,7 +5,6 @@
 ### 1. فرع `main`
 * **المكدس (Stack):** JavaScript.
 * **التثبيت والتشغيل:**
-  - لا يحتاج تثبيت مكتبات.
   - للتشغيل: `node part_a.js` أو `node part_b.js`.
 
 ### 2. فرع `typescript`
